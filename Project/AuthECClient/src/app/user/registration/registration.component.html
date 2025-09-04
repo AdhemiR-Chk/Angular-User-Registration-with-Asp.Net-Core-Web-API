@@ -1,1 +1,8 @@
-<p>registration works!</p>
+<form [formGroup]="form">
+    <div class="mb-3">
+        <input type="text" class="form-control bg-body-secondary" placeholder="Full Name" formControlName="fullName">
+    </div>
+    <div class="mb-3">
+        <input type="text" class="form-control bg-body-secondary" placeholder="Email" formControlName="email">
+    </div>
+</form>
