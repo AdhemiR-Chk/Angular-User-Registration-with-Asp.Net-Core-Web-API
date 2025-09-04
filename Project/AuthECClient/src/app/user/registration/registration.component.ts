@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { FormBuilder, ReactiveFormsModule } from '@angular/forms';
+import { FormGroup, FormBuilder, ReactiveFormsModule } from '@angular/forms';
 
 @Component({
   selector: 'app-registration',
@@ -9,6 +9,26 @@ import { FormBuilder, ReactiveFormsModule } from '@angular/forms';
   styles: ``
 })
 export class RegistrationComponent {
+  registrationForm: FormGroup;
+
+  constructor(private fb: FormBuilder) {
+    this.registrationForm = this.fb.group({
+      fullName : [''],
+      email : [''],
+      password : [''],
+      confirmPassword : ['']
+    });
+  }
+
+  onSubmit() {
+    if (this.registrationForm.valid) {
+      console.log('Formulario enviado', this.registrationForm.value);
+    } else {
+      console.log('Formulario inválido');
+    }
+  }
+  
+  /*
   constructor(public formBuilder: FormBuilder){}
 
   form = this.formBuilder.group({
@@ -17,4 +37,5 @@ export class RegistrationComponent {
     password : [''],
     confirmPassword : ['']
   })
+    */
 }
