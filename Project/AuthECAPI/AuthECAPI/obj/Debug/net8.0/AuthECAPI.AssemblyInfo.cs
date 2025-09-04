@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AuthECAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7dcfba7f79d7500eaafb25edee84e805ae9d46d9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+806069ce58c0f45f142803b04f2ae72e95acde3d")]
 [assembly: System.Reflection.AssemblyProductAttribute("AuthECAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AuthECAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
