@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AChuq\\OneDrive\\Documentos\\Angular-User-Registration-with-Asp.Net-Core-Web-API\\Project\\AuthECAPI\\AuthECAPI\\AuthECAPI.csproj": {}
+    "C:\\Users\\AChuq\\source\\repos\\Angular-User-Registration-with-Asp.Net-Core-Web-API\\Project\\AuthECAPI\\AuthECAPI\\AuthECAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AChuq\\OneDrive\\Documentos\\Angular-User-Registration-with-Asp.Net-Core-Web-API\\Project\\AuthECAPI\\AuthECAPI\\AuthECAPI.csproj": {
+    "C:\\Users\\AChuq\\source\\repos\\Angular-User-Registration-with-Asp.Net-Core-Web-API\\Project\\AuthECAPI\\AuthECAPI\\AuthECAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AChuq\\OneDrive\\Documentos\\Angular-User-Registration-with-Asp.Net-Core-Web-API\\Project\\AuthECAPI\\AuthECAPI\\AuthECAPI.csproj",
+        "projectUniqueName": "C:\\Users\\AChuq\\source\\repos\\Angular-User-Registration-with-Asp.Net-Core-Web-API\\Project\\AuthECAPI\\AuthECAPI\\AuthECAPI.csproj",
         "projectName": "AuthECAPI",
-        "projectPath": "C:\\Users\\AChuq\\OneDrive\\Documentos\\Angular-User-Registration-with-Asp.Net-Core-Web-API\\Project\\AuthECAPI\\AuthECAPI\\AuthECAPI.csproj",
+        "projectPath": "C:\\Users\\AChuq\\source\\repos\\Angular-User-Registration-with-Asp.Net-Core-Web-API\\Project\\AuthECAPI\\AuthECAPI\\AuthECAPI.csproj",
         "packagesPath": "C:\\Users\\AChuq\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AChuq\\OneDrive\\Documentos\\Angular-User-Registration-with-Asp.Net-Core-Web-API\\Project\\AuthECAPI\\AuthECAPI\\obj\\",
+        "outputPath": "C:\\Users\\AChuq\\source\\repos\\Angular-User-Registration-with-Asp.Net-Core-Web-API\\Project\\AuthECAPI\\AuthECAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

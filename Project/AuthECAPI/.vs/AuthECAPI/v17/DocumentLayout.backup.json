@@ -1,12 +1,101 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\AChuq\\OneDrive\\Documentos\\Angular-User-Registration-with-Asp.Net-Core-Web-API\\Project\\AuthECAPI\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\AChuq\\source\\repos\\Angular-User-Registration-with-Asp.Net-Core-Web-API\\Project\\AuthECAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1DD024-03EF-4F24-8C59-797FD58A21F6}|AuthECAPI\\AuthECAPI.csproj|c:\\users\\achuq\\source\\repos\\angular-user-registration-with-asp.net-core-web-api\\project\\authecapi\\authecapi\\migrations\\20250904233419_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1DD024-03EF-4F24-8C59-797FD58A21F6}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\migrations\\20250904233419_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1DD024-03EF-4F24-8C59-797FD58A21F6}|AuthECAPI\\AuthECAPI.csproj|c:\\users\\achuq\\source\\repos\\angular-user-registration-with-asp.net-core-web-api\\project\\authecapi\\authecapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1DD024-03EF-4F24-8C59-797FD58A21F6}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1DD024-03EF-4F24-8C59-797FD58A21F6}|AuthECAPI\\AuthECAPI.csproj|c:\\users\\achuq\\source\\repos\\angular-user-registration-with-asp.net-core-web-api\\project\\authecapi\\authecapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7D1DD024-03EF-4F24-8C59-797FD58A21F6}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1DD024-03EF-4F24-8C59-797FD58A21F6}|AuthECAPI\\AuthECAPI.csproj|c:\\users\\achuq\\source\\repos\\angular-user-registration-with-asp.net-core-web-api\\project\\authecapi\\authecapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1DD024-03EF-4F24-8C59-797FD58A21F6}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D1DD024-03EF-4F24-8C59-797FD58A21F6}|AuthECAPI\\AuthECAPI.csproj|c:\\users\\achuq\\source\\repos\\angular-user-registration-with-asp.net-core-web-api\\project\\authecapi\\authecapi\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D1DD024-03EF-4F24-8C59-797FD58A21F6}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250904233419_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\AChuq\\source\\repos\\Angular-User-Registration-with-Asp.Net-Core-Web-API\\Project\\AuthECAPI\\AuthECAPI\\Migrations\\20250904233419_InitialMigration.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Migrations\\20250904233419_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\AChuq\\source\\repos\\Angular-User-Registration-with-Asp.Net-Core-Web-API\\Project\\AuthECAPI\\AuthECAPI\\Migrations\\20250904233419_InitialMigration.cs",
+              "RelativeToolTip": "AuthECAPI\\Migrations\\20250904233419_InitialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T23:34:20.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\AChuq\\source\\repos\\Angular-User-Registration-with-Asp.Net-Core-Web-API\\Project\\AuthECAPI\\AuthECAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\AChuq\\source\\repos\\Angular-User-Registration-with-Asp.Net-Core-Web-API\\Project\\AuthECAPI\\AuthECAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "AuthECAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T23:30:43.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\AChuq\\source\\repos\\Angular-User-Registration-with-Asp.Net-Core-Web-API\\Project\\AuthECAPI\\AuthECAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthECAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\AChuq\\source\\repos\\Angular-User-Registration-with-Asp.Net-Core-Web-API\\Project\\AuthECAPI\\AuthECAPI\\appsettings.json",
+              "RelativeToolTip": "AuthECAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-04T23:26:36.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AChuq\\source\\repos\\Angular-User-Registration-with-Asp.Net-Core-Web-API\\Project\\AuthECAPI\\AuthECAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\AChuq\\source\\repos\\Angular-User-Registration-with-Asp.Net-Core-Web-API\\Project\\AuthECAPI\\AuthECAPI\\Program.cs",
+              "RelativeToolTip": "AuthECAPI\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvx8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T23:08:02.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\AChuq\\source\\repos\\Angular-User-Registration-with-Asp.Net-Core-Web-API\\Project\\AuthECAPI\\AuthECAPI\\Models\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Models\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\AChuq\\source\\repos\\Angular-User-Registration-with-Asp.Net-Core-Web-API\\Project\\AuthECAPI\\AuthECAPI\\Models\\AppDBContext.cs",
+              "RelativeToolTip": "AuthECAPI\\Models\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T23:21:35.19Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
